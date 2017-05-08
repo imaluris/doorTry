@@ -1,0 +1,21 @@
+{
+  "name": "door",
+  "version": "1.0.0",
+  "description": "try a cazzo di door",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imaluris",
+  "license": "ISC",
+  "devDependencies": {
+    "aframe": "^0.5.0",
+    "aframe-physics-system": "^1.4.0",
+    "aframe-teleport-controls": "^0.2.0",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-open": "^2.0.0",
+    "gulp-serve": "^1.4.0",
+    "super-hands": "^0.3.1"
+  }
+}
